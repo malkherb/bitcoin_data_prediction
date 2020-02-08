@@ -6,20 +6,33 @@ Bitcoin Historical Data Analysis:
 The analysis code uses the following libraries:
 
 numpy
+
 pandas
+
 matplotlib.pyplot
+
 from sklearn.linear_model import LinearRegression
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.metrics import r2_score, mean_squared_error
+
 import seaborn as sns
+
 from sklearn.model_selection import train_test_split 
+
 from sklearn.linear_model import Ridge
+
 from sklearn import metrics
+
 from sklearn.model_selection import cross_val_score
-from sklearn import metrics
+
 from sklearn.preprocessing import StandardScaler
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.model_selection import GridSearchCV
+
 %matplotlib inline
 
 ### Project Motivation
