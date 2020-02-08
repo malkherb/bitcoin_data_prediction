@@ -55,6 +55,7 @@ Preprocess the data, build a model, optimize it, then use it to predict the futu
 There are two files in the repo:
 
 bitcoin_hist_data.csv: This is the Bitcoin Historical Raw Data.
+
 btc_modeling.ipynb: This is the code written to develop the model, analysis, and to answer the questions.
 
 ### How to Interact with your project:
