@@ -35,28 +35,20 @@ from sklearn.model_selection import GridSearchCV
 
 %matplotlib inline
 
-### Project Overview:
-**Problem domain:**
 
-An analysis on Jupiter on Bitcoin Historical Data.**
+### About the Project:
 
-**Project origin and dataset:**
+Preprocess the data, build a model, optimize it, then use it to predict the future price changes. In addition, This project will use the hostrical data to answer several questions including:
 
-The raw data was downloaded directly from djrmarques at Kaggle.
+1- Can we predict the change % of Bitcoin price tomorrow using the collected data set ?
 
-### Strategy:
+2- Is Bitcoin price likely to increase or decrease in the coming years?
 
-First, I will preprocess the data, build a model, optimize it, then use it to predict the future price changes. In addition, I will use the hostrical data to answer several questions including:
+3- Which date had the most trading volume?
 
-Can we predict the change % of Bitcoin price tomorrow using the collected data set ?
+4- How is the trading volume during the Weekends versus Weekday?
 
-Is Bitcoin price likely to increase or decrease in the coming years?
-
-Which date had the most trading volume?
-
-How is the trading volume during the Weekends versus Weekday?
-
-Which months during Bitcoin history has the highest increase % and which one has the lowest decrease %?
+5- Which months during Bitcoin history has the highest increase % and which one has the lowest decrease %?
 
 
 ### File Descriptions
