@@ -44,7 +44,7 @@ An analysis on Jupiter on Bitcoin Historical Data.**
 
 The raw data was downloaded directly from djrmarques at Kaggle.
 
-###Strategy:
+### Strategy:
 
 First, I will preprocess the data, build a model, optimize it, then use it to predict the future price changes. In addition, I will use the hostrical data to answer several questions including:
 
